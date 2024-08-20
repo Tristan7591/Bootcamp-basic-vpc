@@ -8,7 +8,7 @@ Ce dépôt contient un ensemble de fichiers Terraform pour créer une infrastruc
 Avant d'utiliser ce template, assurez-vous d'avoir les éléments suivants :
 
 - Un compte AWS actif.
-- Terraform installé sur votre machine. Vous pouvez le télécharger depuis [le site officiel de Terraform](https://www.terraform.io/downloads).
+- Terraform installé est configurer sur votre machine. Vous pouvez le télécharger depuis [le site officiel de Terraform](https://www.terraform.io/downloads).
 
 ## Structure des Fichiers
 
